@@ -1,0 +1,147 @@
+.html {
+  margin: 0;
+  padding: 0;
+  font-size: 20;
+}
+
+body {
+  background-color: rgb(228, 219, 206);
+}
+
+div {
+  color: #fff;
+  border-radius: 10%;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  margin: 10px 40%;
+  text-shadow: 2px 2px 4px #000000;
+  letter-spacing: 0.05rem;
+}
+
+.red {
+  background-color: #f00;
+}
+
+.blue {
+  background-color: #00f;
+}
+
+.green {
+  background-color: #0f0;
+}
+
+.yellow {
+  background-color: #ff0;
+}
+
+.cyan {
+  background-color: #0ff;
+}
+
+.magenta {
+  background-color: #f0f;
+}
+
+.dino-dark-blue {
+  background-color: #394263;
+}
+
+.dino-dark-purple {
+  background-color: #403459;
+}
+
+.dragon-fire {
+  background-color: #bc4f00;
+}
+
+.dino-medium-blue {
+  background-color: #5fa4ea;
+}
+
+.dino-deep-blue {
+  background-color: #4568d4;
+}
+
+.dark-turquoise {
+  background-color: #184546;
+}
+
+.medium-turquoise {
+  background-color: #007060;
+}
+
+.turquoise {
+  background-color: #00c5ab;
+}
+
+.deep-pink {
+  background-color: #ff119a;
+}
+
+.dark-violet {
+  background-color: #730046;
+}
+
+.dark-magenta {
+  background-color: #b70042;
+}
+
+.vermillion {
+  background-color: #ef3100;
+}
+
+.coral {
+  background-color: #ff5834;
+}
+
+.orange {
+  background-color: #ff7f00;
+}
+
+.peach {
+  background-color: #ffa73a;
+}
+
+.lemon-lime {
+  background-color: #a8ff44;
+}
+
+.mint {
+  background-color: #38e985;
+}
+
+.jade {
+  background-color: #008840;
+}
+
+.dark-lavender {
+  background-color: #5e275f;
+}
+.medium-lavender {
+  background-color: #853587;
+}
+
+.lavender {
+  background-color: #bd77be;
+}
+
+.dark-teal {
+  background-color: #0e404a;
+}
+
+.medium-teal {
+  background-color: #105563;
+}
+
+.teal {
+  background-color: #14849c;
+}
+
+.powder-blue {
+  background-color: #82a7ff;
+}
+
+.glacial {
+  background-color: #aceaff;
+}
